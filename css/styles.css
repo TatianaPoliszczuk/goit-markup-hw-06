@@ -57,7 +57,7 @@ a {
 .header-container {
   display: flex;
   align-items: center;
-  justify-content: space-between; /*dodano dla Mobile First*/
+  justify-content: space-between; 
 }
 
 .navigation {
@@ -76,7 +76,7 @@ a {
   text-decoration: none;
   /*margin-bottom: 16px;
   margin-right: 76px;*/
-  padding: 17px 0; /*dodano dla Mobile First*/
+  padding: 17px 0; 
 }
 
 .logo-part {
