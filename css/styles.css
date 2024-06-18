@@ -170,14 +170,14 @@ border: none;
   position: fixed;
   top: 0;
   opacity: 0;
-  pointer-events: none;
+  /* pointer-events: none; */
 }
 
 .backdrop-menu.is-open {
   opacity: 1;
   pointer-events: auto;
 }
-/* тут кінець схованки */
+
 
 .modal-menu {
   position: absolute;
